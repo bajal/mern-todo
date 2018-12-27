@@ -1,0 +1,15 @@
+{
+  "name": "mern-todo",
+  "version": "1.0.0",
+  "description": "Building a to-do app in the MERN stack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bajal",
+  "license": "MIT",
+  "dependencies": {
+    "graphql-yoga": "^1.16.9",
+    "mongoose": "^5.4.1"
+  }
+}
